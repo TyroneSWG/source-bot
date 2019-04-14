@@ -1,0 +1,21 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "main": "hope.js",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TyroneSWG",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://tyroneswg@bitbucket.org/tyroneswg/anonymousbot.git"
+  },
+  "homepage": "https://bitbucket.org/tyroneswg/anonymousbot#readme",
+  "description": ""
+}
