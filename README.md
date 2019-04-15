@@ -7,7 +7,7 @@
 
 # Files:
 
-staff.json: Used to store names and discord_id's. (Optional usage)
+staff.json: Used to store names and discord_id's. (Optional usage)  
 config.json: Global settings for the bot. (Token, prefix, staffprefix, and any additional variables.)
 
 ## Running the Bot
